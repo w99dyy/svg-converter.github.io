@@ -12,14 +12,6 @@ A web application that processes SVG files for Reddit submission by:
 - Live preview of processed SVG
 - One-click download
 
-## How to Deploy on GitHub Pages
-
-1. Create a new repository on GitHub
-2. Upload all files from this project to the repository
-3. Go to Settings > Pages
-4. Select "main" branch and "/ (root)" folder
-5. Click "Save" - your site will be live at `https://[username].github.io/[repository-name]/`
-
 ## How to Use
 
 1. Drag an SVG file into the upload area or click to browse
